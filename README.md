@@ -10,3 +10,7 @@ El comercio de productos online es un mercado, cada vez mas personas eligen vend
 
 Con Brown lashes se busca una hacer una plataforma web que venda en un solo lugar todos los productos necesarios para el embellecimiento de cejas y pestañas, también busca que el vendedor sepa con mayor certeza la cantidad y tipo de productos que vende con el propósito de planificar mejor las compras al momento de realizar un pedido a los mayoristas. Por último, se desea obtener retroalimentación de los clientes para ofrecer mas y mejores productos cada día.  
 
+## 3. Planteamiento del problema
+Con el pasar de los años es cada vez más común que las personas usen internet para adquirir productos y servicios, dando lugar a la aparición de plataformas de ventas online que ofrecen una cantidad de productos. No obstante, es difícil encontrar en un solo sitio todos los insumos necesarios para el tratamiento de cejas y pestañas.  
+
+Con el propósito de solucionar esta problemática se tiene como propósito desarrollar una aplicación web en donde las personas que trabajan en el sector de la estética puedan encontrar en un solo todo lo que necesitan al momento de ejercer algún tratamiento estético sobre las cejas o las pestañas.  
