@@ -31,4 +31,10 @@ Los usuarios pueden vender y/o comprar tanto productos nuevos como usados a un p
 Según The Nielsen Company más de 52 000 personas generan todo o la mayor parte de sus ingresos vendiendo a través de MercadoLibre y en 2009 más de 3 millones de personas y empresas vendieron por lo menos un artículo a través de este medio.  
 ## 6. Objetivo general
 Desarrollar un aplicativo web que facilite le adquisición de productos de belleza para evitar costos adicionales de tiempo y dinero.  
+## 7. Objetivos específicos
+1.	Implementar un módulo en donde el usuario pueda ver todos los productos disponibles en el mercado.  
+
+2.	Desarrollar una sección de compras para que el usuario pueda adquirir el producto de su preferencia desde el propio sitio web.  
+
+3.	Implementar un canal de interacción por el medio del cual los usuarios puedan dar retroalimentación para implementar mejoras en el servicio.  
 
