@@ -29,4 +29,6 @@ MercadoLibre es una empresa argentina dedicada a compras, ventas y pagos por Int
 Los usuarios pueden vender y/o comprar tanto productos nuevos como usados a un precio fijo o variable también se ofrecen servicios privados. MercadoLibre también posee un servicio llamado Mercado Pago, una plataforma de cobro a los compradores y pagos y abonos a los vendedores. Sus oficinas centrales se encuentran en Buenos Aires, Argentina.  
 
 Según The Nielsen Company más de 52 000 personas generan todo o la mayor parte de sus ingresos vendiendo a través de MercadoLibre y en 2009 más de 3 millones de personas y empresas vendieron por lo menos un artículo a través de este medio.  
+## 6. Objetivo general
+Desarrollar un aplicativo web que facilite le adquisición de productos de belleza para evitar costos adicionales de tiempo y dinero.  
 
