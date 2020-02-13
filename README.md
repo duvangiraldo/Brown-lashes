@@ -15,6 +15,10 @@ Con el pasar de los años es cada vez más común que las personas usen internet
 
 Con el propósito de solucionar esta problemática se tiene como propósito desarrollar una aplicación web en donde las personas que trabajan en el sector de la estética puedan encontrar en un solo todo lo que necesitan al momento de ejercer algún tratamiento estético sobre las cejas o las pestañas.  
 ## 4. Justificación
+El proyecto busca ayudar a las personas comercializar sus productos de una forma más rápida, efectiva y segura. Esto puede ser posible gracias al uso de las tecnologías de la información y la comunicación (TIC), en especial con todos los aspectos relacionados al desarrollo de aplicaciones web.  
+
+Todo el desarrollo de la aplicación va orientado a que los usuarios puedan encontrar en un solo sitio web todos los artículos que necesitan en un solo lugar disminuyendo de forma significativa el tiempo y dinero invertidos.  
+
 ## 5. Estado del arte
 ### Amazon
 Amazon.com, Inc. es una compañía estadounidense de comercio electrónico y servicios de computación en la nube a todos los niveles con sede en la ciudad estadounidense de Seattle, Estado de Washington. Su lema es: From A to Z (traducido al español: «De la A a la Z»). Fue una de las primeras grandes compañías en vender bienes a través de Internet. Amazon también posee Alexa Internet, a9.com, Shopbop, Internet Movie Database (IMDb), Zappos.com, DPreview.com y Twitch1 en Irlanda, Canadá, Australia, Alemania, Austria, Francia, China, Japón, Italia, España, Países Bajos, Brasil, India y México para poder ofrecer los productos de esos países. También Amazon está presente en otros países desde donde realiza funciones de soporte, como en Costa Rica, desde donde centraliza la atención al cliente de Latinoamérica y con 7500 empleados es una de las mayores empresas del país.  
@@ -65,3 +69,5 @@ Catalogo de productos
 Descripción detallada producto  
 
 ![Imgur Image](https://i.imgur.com/gYKjXzK.png)
+
+
