@@ -37,4 +37,10 @@ Desarrollar un aplicativo web que facilite le adquisición de productos de belle
 2.	Desarrollar una sección de compras para que el usuario pueda adquirir el producto de su preferencia desde el propio sitio web.  
 
 3.	Implementar un canal de interacción por el medio del cual los usuarios puedan dar retroalimentación para implementar mejoras en el servicio.  
+Proyecto de curso DWA  
+
+## 8. Modelo de negocio
+
+![Imgur Image](https://i.imgur.com/ti7zFJd.png)  
+
 
